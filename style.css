@@ -48,9 +48,11 @@ body {
     line-height: 1.7;
     max-width: 500px;
   }
+#info {
+  font-size: 15px;
+}
 
   li {
-    font-size: 18px;
     margin: 0 auto 50px auto;
   }
 
